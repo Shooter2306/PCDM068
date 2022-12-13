@@ -12,4 +12,4 @@
 
 <h3> NOMBRE:  <h4> Javier Conde Enriquez
 <h3> VALIDO 
-<h3> Credito:
+<h3> Credito: 2
